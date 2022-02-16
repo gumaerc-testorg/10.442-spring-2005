@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Problem covering topics Michaelis-Menten kinetics, enzyme, rate expression.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/10-442-biochemical-engineering-spring-2005/22123a23cdfd15da6c059c851b7d3468_problem_set_1.pdf
+file: /media/courses/10-442-biochemical-engineering-spring-2005/22123a23cdfd15da6c059c851b7d3468_problem_set_1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: problem_set_1.pdf
 uid: 22123a23-cdfd-15da-6c05-9c851b7d3468
