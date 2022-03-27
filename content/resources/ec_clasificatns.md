@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 893bf2b1-64d6-8b74-d09f-1a7cf6f8636a
 resourcetype: Document
 title: ec_clasificatns.pdf
 uid: 4e6b4421-4879-0b30-9939-3e00297570ee

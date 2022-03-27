@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 893bf2b1-64d6-8b74-d09f-1a7cf6f8636a
 resourcetype: Document
 title: practice_ps_qz_2.pdf
 uid: cdc836c9-a8b3-0cb4-739d-b568acc866e8
