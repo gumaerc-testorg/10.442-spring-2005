@@ -5,6 +5,7 @@ file: /courses/10-442-biochemical-engineering-spring-2005/f197f72b5f51412b216f39
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: problem_set_5.pdf
 uid: f197f72b-5f51-412b-216f-3995f4f464ce
 ---
 Problem on methanococcus jannaschii, aerogenes, stoichiometric equation.
-

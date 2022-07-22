@@ -5,6 +5,7 @@ description: Lecture covering topics oxidoreductases,  transferases, hydrolases,
 file: /courses/10-442-biochemical-engineering-spring-2005/edaea64690cd2a67bbc52ab9e2979b8a_ex_of_ec_clases.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex_of_ec_clases.pdf
 uid: edaea646-90cd-2a67-bbc5-2ab9e2979b8a
 ---
 Lecture covering topics oxidoreductases,  transferases, hydrolases, nitrilase,  Lyases, isomerases and ligases.
-

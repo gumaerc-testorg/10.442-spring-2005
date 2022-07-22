@@ -6,6 +6,7 @@ file: /courses/10-442-biochemical-engineering-spring-2005/c9f51aa14914ebcf6354d6
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: problem_set_2.pdf
 uid: c9f51aa1-4914-ebcf-6354-d64136d0eb5a
 ---
 Problems on pesticide, product, enzyme-catalyzed reaction, substrate concentration, solutions.
-
