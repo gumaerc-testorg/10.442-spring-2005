@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information about the texts, recommended texts,
+  language lab, homework and grading criteria for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 016ac4d7-4cf7-1713-ca89-11b90d7f2087
 ---
