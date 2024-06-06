@@ -2,6 +2,7 @@
 content_type: resource
 description: Problems from book on Shuler & Kargi.
 file: /courses/10-442-biochemical-engineering-spring-2005/f8c98b48cbe267d3f60db8c5892355e1_problem_set_4.pdf
+file_size: 71443
 file_type: application/pdf
 learning_resource_types:
 - Assignments
