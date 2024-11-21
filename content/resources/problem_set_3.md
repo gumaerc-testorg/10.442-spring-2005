@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problems from book Shuler & Kargi.
-file: /courses/10-442-biochemical-engineering-spring-2005/b2bf579713d24ee90fd397d96d6a501a_problem_set_3.pdf
+file: /ol-ocw-studio-app/courses/10-442-biochemical-engineering-spring-2005/b2bf579713d24ee90fd397d96d6a501a_problem_set_3.pdf
 file_size: 11065
 file_type: application/pdf
 learning_resource_types:
