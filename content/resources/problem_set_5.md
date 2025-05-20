@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Problem on methanococcus jannaschii, aerogenes, stoichiometric equation.
-file: /ol-ocw-studio-app/courses/10-442-biochemical-engineering-spring-2005/f197f72b5f51412b216f3995f4f464ce_problem_set_5.pdf
+file: /courses/10-442-biochemical-engineering-spring-2005/f197f72b5f51412b216f3995f4f464ce_problem_set_5.pdf
 file_size: 28998
 file_type: application/pdf
 learning_resource_types:

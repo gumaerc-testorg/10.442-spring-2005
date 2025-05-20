@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture covering topics problem bioconversion, enzyme, bioconversion,
   biocatalyst, room temperature.
-file: /ol-ocw-studio-app/courses/10-442-biochemical-engineering-spring-2005/2a34916a071e4ca6ebc0678234a65e13_practice_ps_qz_1.pdf
+file: /courses/10-442-biochemical-engineering-spring-2005/2a34916a071e4ca6ebc0678234a65e13_practice_ps_qz_1.pdf
 file_size: 43319
 file_type: application/pdf
 learning_resource_types: []
