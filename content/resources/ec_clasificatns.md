@@ -2,7 +2,7 @@
 content_type: resource
 description: Text on topics covering oxidoreductases, transferases, hydrolases, lyases,
   isomerases, ligases.
-file: /ol-ocw-studio-app/courses/10-442-biochemical-engineering-spring-2005/4e6b442148790b3099393e00297570ee_ec_clasificatns.pdf
+file: /courses/10-442-biochemical-engineering-spring-2005/4e6b442148790b3099393e00297570ee_ec_clasificatns.pdf
 file_size: 66837
 file_type: application/pdf
 learning_resource_types: []
