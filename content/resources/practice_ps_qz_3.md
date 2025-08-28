@@ -2,7 +2,7 @@
 content_type: resource
 description: Problems on resident biochemical engineer, fermentors, antibiotic formation,
   impeller, mycelia organism.
-file: /courses/10-442-biochemical-engineering-spring-2005/1456c1625a391afcf52adfd277c91e7c_practice_ps_qz_3.pdf
+file: /ol-ocw-studio-app/courses/10-442-biochemical-engineering-spring-2005/1456c1625a391afcf52adfd277c91e7c_practice_ps_qz_3.pdf
 file_size: 16212
 file_type: application/pdf
 learning_resource_types: []
